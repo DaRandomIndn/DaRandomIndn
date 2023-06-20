@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DaRandomIndn
-- 👀 I’m interested in learning more about data analytics 
-- 🌱 I’m currently learning SQL,R, and Python
+- 👋 Hi, I’m Prakash "Kash" 
+- 👀 I’m interested in learning more about data analytics and Backend Devlopment 
+- 🌱 I’m currently Working my way through The Odin Project as well as CS50(x) 2023  
 - 💞️ I’m looking to collaborate on any project where a newbie can learn or help out
 - 📫 I can be reached best by email at mprakash1999@gmail.com
 
